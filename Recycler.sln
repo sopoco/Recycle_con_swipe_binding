@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "demo.Core", "demo.Core\demo.Core.csproj", "{53F003D7-B099-4190-9D97-F288BD252C54}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "nombreDemo.Andro", "nombreDemo.Andro\nombreDemo.Andro.csproj", "{7BF43F78-2FEC-4FDD-803E-551C7BF71907}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{53F003D7-B099-4190-9D97-F288BD252C54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53F003D7-B099-4190-9D97-F288BD252C54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53F003D7-B099-4190-9D97-F288BD252C54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53F003D7-B099-4190-9D97-F288BD252C54}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7BF43F78-2FEC-4FDD-803E-551C7BF71907}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BF43F78-2FEC-4FDD-803E-551C7BF71907}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BF43F78-2FEC-4FDD-803E-551C7BF71907}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{7BF43F78-2FEC-4FDD-803E-551C7BF71907}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BF43F78-2FEC-4FDD-803E-551C7BF71907}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7BF43F78-2FEC-4FDD-803E-551C7BF71907}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

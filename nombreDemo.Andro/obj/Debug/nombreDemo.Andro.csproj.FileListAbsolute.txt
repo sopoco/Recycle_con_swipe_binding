@@ -1,0 +1,153 @@
+C:\Users\Sebastian Castillo\Documents\Visual Studio 2015\Projects\Recycler\nombreDemo.Andro\bin\Debug\nombreDemo.Andro.dll
+C:\Users\Sebastian Castillo\Documents\Visual Studio 2015\Projects\Recycler\nombreDemo.Andro\bin\Debug\nombreDemo.Andro.pdb
+C:\Users\Sebastian Castillo\Documents\Visual Studio 2015\Projects\Recycler\nombreDemo.Andro\bin\Debug\nombreDemo.Andro.apk
+C:\Users\Sebastian Castillo\Documents\Visual Studio 2015\Projects\Recycler\nombreDemo.Andro\bin\Debug\nombreDemo.Andro-Signed.apk
+C:\Users\Sebastian Castillo\Documents\Visual Studio 2015\Projects\Recycler\nombreDemo.Andro\bin\Debug\demo.Core.dll
+C:\Users\Sebastian Castillo\Documents\Visual Studio 2015\Projects\Recycler\nombreDemo.Andro\bin\Debug\MvvmCross.Binding.dll
+C:\Users\Sebastian Castillo\Documents\Visual Studio 2015\Projects\Recycler\nombreDemo.Andro\bin\Debug\MvvmCross.Binding.Droid.dll
+C:\Users\Sebastian Castillo\Documents\Visual Studio 2015\Projects\Recycler\nombreDemo.Andro\bin\Debug\MvvmCross.Core.dll
+C:\Users\Sebastian Castillo\Documents\Visual Studio 2015\Projects\Recycler\nombreDemo.Andro\bin\Debug\MvvmCross.Droid.dll
+C:\Users\Sebastian Castillo\Documents\Visual Studio 2015\Projects\Recycler\nombreDemo.Andro\bin\Debug\MvvmCross.Droid.Shared.dll
+C:\Users\Sebastian Castillo\Documents\Visual Studio 2015\Projects\Recycler\nombreDemo.Andro\bin\Debug\MvvmCross.Droid.Support.V4.dll
+C:\Users\Sebastian Castillo\Documents\Visual Studio 2015\Projects\Recycler\nombreDemo.Andro\bin\Debug\MvvmCross.Droid.Support.V7.AppCompat.dll
+C:\Users\Sebastian Castillo\Documents\Visual Studio 2015\Projects\Recycler\nombreDemo.Andro\bin\Debug\MvvmCross.Droid.Support.V7.RecyclerView.dll
+C:\Users\Sebastian Castillo\Documents\Visual Studio 2015\Projects\Recycler\nombreDemo.Andro\bin\Debug\MvvmCross.Localization.dll
+C:\Users\Sebastian Castillo\Documents\Visual Studio 2015\Projects\Recycler\nombreDemo.Andro\bin\Debug\MvvmCross.Platform.dll
+C:\Users\Sebastian Castillo\Documents\Visual Studio 2015\Projects\Recycler\nombreDemo.Andro\bin\Debug\MvvmCross.Platform.Droid.dll
+C:\Users\Sebastian Castillo\Documents\Visual Studio 2015\Projects\Recycler\nombreDemo.Andro\bin\Debug\MvvmCross.Plugins.Json.dll
+C:\Users\Sebastian Castillo\Documents\Visual Studio 2015\Projects\Recycler\nombreDemo.Andro\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Sebastian Castillo\Documents\Visual Studio 2015\Projects\Recycler\nombreDemo.Andro\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Users\Sebastian Castillo\Documents\Visual Studio 2015\Projects\Recycler\nombreDemo.Andro\bin\Debug\Xamarin.Android.Support.Design.dll
+C:\Users\Sebastian Castillo\Documents\Visual Studio 2015\Projects\Recycler\nombreDemo.Andro\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\Sebastian Castillo\Documents\Visual Studio 2015\Projects\Recycler\nombreDemo.Andro\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\Sebastian Castillo\Documents\Visual Studio 2015\Projects\Recycler\nombreDemo.Andro\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+C:\Users\Sebastian Castillo\Documents\Visual Studio 2015\Projects\Recycler\nombreDemo.Andro\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Users\Sebastian Castillo\Documents\Visual Studio 2015\Projects\Recycler\nombreDemo.Andro\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\Sebastian Castillo\Documents\Visual Studio 2015\Projects\Recycler\nombreDemo.Andro\bin\Debug\demo.Core.pdb
+C:\Users\Sebastian Castillo\Documents\Visual Studio 2015\Projects\Recycler\nombreDemo.Andro\bin\Debug\MvvmCross.Binding.dll.mdb
+C:\Users\Sebastian Castillo\Documents\Visual Studio 2015\Projects\Recycler\nombreDemo.Andro\bin\Debug\MvvmCross.Localization.dll.mdb
+C:\Users\Sebastian Castillo\Documents\Visual Studio 2015\Projects\Recycler\nombreDemo.Andro\bin\Debug\MvvmCross.Platform.dll.mdb
+C:\Users\Sebastian Castillo\Documents\Visual Studio 2015\Projects\Recycler\nombreDemo.Andro\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Sebastian Castillo\Documents\Visual Studio 2015\Projects\Recycler\nombreDemo.Andro\obj\Debug\nombreDemo.Andro.csprojResolveAssemblyReference.cache
+C:\Users\Sebastian Castillo\Documents\Visual Studio 2015\Projects\Recycler\nombreDemo.Andro\obj\Debug\nombreDemo.Andro.dll
+C:\Users\Sebastian Castillo\Documents\Visual Studio 2015\Projects\Recycler\nombreDemo.Andro\obj\Debug\nombreDemo.Andro.pdb
+C:\Users\Sebastian Castillo\Documents\Visual Studio 2015\Projects\Recycler\nombreDemo.Andro\obj\Debug\android\bin\nombreDemo.Andro.apk
+C:\Users\Sebastian Castillo\Documents\Visual Studio 2015\Projects\Recycler\nombreDemo.Andro\obj\Debug\res\layout\splashscreen.xml
+C:\Users\Sebastian Castillo\Documents\Visual Studio 2015\Projects\Recycler\nombreDemo.Andro\obj\Debug\res\layout\firstview.xml
+C:\Users\Sebastian Castillo\Documents\Visual Studio 2015\Projects\Recycler\nombreDemo.Andro\obj\Debug\res\layout\item_name.xml
+C:\Users\Sebastian Castillo\Documents\Visual Studio 2015\Projects\Recycler\nombreDemo.Andro\obj\Debug\res\layout\fragment_home.xml
+C:\Users\Sebastian Castillo\Documents\Visual Studio 2015\Projects\Recycler\nombreDemo.Andro\obj\Debug\res\layout\fragment_example_recyclerview.xml
+C:\Users\Sebastian Castillo\Documents\Visual Studio 2015\Projects\Recycler\nombreDemo.Andro\obj\Debug\res\values\strings.xml
+C:\Users\Sebastian Castillo\Documents\Visual Studio 2015\Projects\Recycler\nombreDemo.Andro\obj\Debug\res\drawable\icon.png
+C:\Users\Sebastian Castillo\Documents\Visual Studio 2015\Projects\Recycler\nombreDemo.Andro\obj\Debug\res\values\splashstyle.xml
+C:\Users\Sebastian Castillo\Documents\Visual Studio 2015\Projects\Recycler\nombreDemo.Andro\obj\Debug\res\drawable\splash.png
+C:\Users\Sebastian Castillo\Documents\Visual Studio 2015\Projects\Recycler\nombreDemo.Andro\obj\Debug\res\values\styles.xml
+C:\Users\Sebastian Castillo\Documents\Visual Studio 2015\Projects\Recycler\nombreDemo.Andro\obj\Debug\res\values\colors.xml
+C:\Users\Sebastian Castillo\Documents\Visual Studio 2015\Projects\Recycler\nombreDemo.Andro\obj\Debug\R.cs.flag
+C:\Users\Sebastian Castillo\Documents\Visual Studio 2015\Projects\Recycler\nombreDemo.Andro\obj\Debug\uploadflags.txt
+C:\Users\Sebastian Castillo\Documents\Visual Studio 2015\Projects\Recycler\nombreDemo.Andro\bin\Debug\XamarinItemTouchHelper.dll
+C:\Users\Sebastian Castillo\Documents\Visual Studio 2015\Projects\Recycler\nombreDemo.Andro\bin\Debug\demo.Core.dll.mdb
+C:\Users\Sebastian Castillo\Documents\Visual Studio 2015\Projects\Recycler\nombreDemo.Andro\obj\Debug\nombreDemo.Andro.dll.mdb
+C:\Users\Sebastian Castillo\Documents\Visual Studio 2015\Projects\Recycler\nombreDemo.Andro\bin\Debug\nombreDemo.Andro.dll.mdb
+C:\proyects\Recycler_con_adapater_nativo\Recycler\nombreDemo.Andro\bin\Debug\nombreDemo.Andro.dll
+C:\proyects\Recycler_con_adapater_nativo\Recycler\nombreDemo.Andro\bin\Debug\nombreDemo.Andro.pdb
+C:\proyects\Recycler_con_adapater_nativo\Recycler\nombreDemo.Andro\bin\Debug\nombreDemo.Andro.apk
+C:\proyects\Recycler_con_adapater_nativo\Recycler\nombreDemo.Andro\bin\Debug\nombreDemo.Andro-Signed.apk
+C:\proyects\Recycler_con_adapater_nativo\Recycler\nombreDemo.Andro\bin\Debug\demo.Core.dll
+C:\proyects\Recycler_con_adapater_nativo\Recycler\nombreDemo.Andro\bin\Debug\MvvmCross.Binding.dll
+C:\proyects\Recycler_con_adapater_nativo\Recycler\nombreDemo.Andro\bin\Debug\MvvmCross.Binding.Droid.dll
+C:\proyects\Recycler_con_adapater_nativo\Recycler\nombreDemo.Andro\bin\Debug\MvvmCross.Core.dll
+C:\proyects\Recycler_con_adapater_nativo\Recycler\nombreDemo.Andro\bin\Debug\MvvmCross.Droid.dll
+C:\proyects\Recycler_con_adapater_nativo\Recycler\nombreDemo.Andro\bin\Debug\MvvmCross.Droid.Shared.dll
+C:\proyects\Recycler_con_adapater_nativo\Recycler\nombreDemo.Andro\bin\Debug\MvvmCross.Droid.Support.V4.dll
+C:\proyects\Recycler_con_adapater_nativo\Recycler\nombreDemo.Andro\bin\Debug\MvvmCross.Droid.Support.V7.AppCompat.dll
+C:\proyects\Recycler_con_adapater_nativo\Recycler\nombreDemo.Andro\bin\Debug\MvvmCross.Droid.Support.V7.RecyclerView.dll
+C:\proyects\Recycler_con_adapater_nativo\Recycler\nombreDemo.Andro\bin\Debug\MvvmCross.Localization.dll
+C:\proyects\Recycler_con_adapater_nativo\Recycler\nombreDemo.Andro\bin\Debug\MvvmCross.Platform.dll
+C:\proyects\Recycler_con_adapater_nativo\Recycler\nombreDemo.Andro\bin\Debug\MvvmCross.Platform.Droid.dll
+C:\proyects\Recycler_con_adapater_nativo\Recycler\nombreDemo.Andro\bin\Debug\MvvmCross.Plugins.Json.dll
+C:\proyects\Recycler_con_adapater_nativo\Recycler\nombreDemo.Andro\bin\Debug\Newtonsoft.Json.dll
+C:\proyects\Recycler_con_adapater_nativo\Recycler\nombreDemo.Andro\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\proyects\Recycler_con_adapater_nativo\Recycler\nombreDemo.Andro\bin\Debug\Xamarin.Android.Support.Design.dll
+C:\proyects\Recycler_con_adapater_nativo\Recycler\nombreDemo.Andro\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\proyects\Recycler_con_adapater_nativo\Recycler\nombreDemo.Andro\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+C:\proyects\Recycler_con_adapater_nativo\Recycler\nombreDemo.Andro\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+C:\proyects\Recycler_con_adapater_nativo\Recycler\nombreDemo.Andro\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\proyects\Recycler_con_adapater_nativo\Recycler\nombreDemo.Andro\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+C:\proyects\Recycler_con_adapater_nativo\Recycler\nombreDemo.Andro\bin\Debug\XamarinItemTouchHelper.dll
+C:\proyects\Recycler_con_adapater_nativo\Recycler\nombreDemo.Andro\bin\Debug\demo.Core.pdb
+C:\proyects\Recycler_con_adapater_nativo\Recycler\nombreDemo.Andro\bin\Debug\MvvmCross.Binding.dll.mdb
+C:\proyects\Recycler_con_adapater_nativo\Recycler\nombreDemo.Andro\bin\Debug\MvvmCross.Localization.dll.mdb
+C:\proyects\Recycler_con_adapater_nativo\Recycler\nombreDemo.Andro\bin\Debug\MvvmCross.Platform.dll.mdb
+C:\proyects\Recycler_con_adapater_nativo\Recycler\nombreDemo.Andro\bin\Debug\Newtonsoft.Json.xml
+C:\proyects\Recycler_con_adapater_nativo\Recycler\nombreDemo.Andro\obj\Debug\nombreDemo.Andro.csprojResolveAssemblyReference.cache
+C:\proyects\Recycler_con_adapater_nativo\Recycler\nombreDemo.Andro\obj\Debug\nombreDemo.Andro.dll
+C:\proyects\Recycler_con_adapater_nativo\Recycler\nombreDemo.Andro\obj\Debug\nombreDemo.Andro.pdb
+C:\proyects\Recycler_con_adapater_nativo\Recycler\nombreDemo.Andro\obj\Debug\android\bin\nombreDemo.Andro.apk
+C:\proyects\Recycler_con_adapater_nativo\Recycler\nombreDemo.Andro\obj\Debug\res\layout\splashscreen.xml
+C:\proyects\Recycler_con_adapater_nativo\Recycler\nombreDemo.Andro\obj\Debug\res\layout\firstview.xml
+C:\proyects\Recycler_con_adapater_nativo\Recycler\nombreDemo.Andro\obj\Debug\res\layout\item_name.xml
+C:\proyects\Recycler_con_adapater_nativo\Recycler\nombreDemo.Andro\obj\Debug\res\layout\fragment_home.xml
+C:\proyects\Recycler_con_adapater_nativo\Recycler\nombreDemo.Andro\obj\Debug\res\layout\fragment_example_recyclerview.xml
+C:\proyects\Recycler_con_adapater_nativo\Recycler\nombreDemo.Andro\obj\Debug\res\values\strings.xml
+C:\proyects\Recycler_con_adapater_nativo\Recycler\nombreDemo.Andro\obj\Debug\res\drawable\icon.png
+C:\proyects\Recycler_con_adapater_nativo\Recycler\nombreDemo.Andro\obj\Debug\res\values\splashstyle.xml
+C:\proyects\Recycler_con_adapater_nativo\Recycler\nombreDemo.Andro\obj\Debug\res\drawable\splash.png
+C:\proyects\Recycler_con_adapater_nativo\Recycler\nombreDemo.Andro\obj\Debug\res\values\styles.xml
+C:\proyects\Recycler_con_adapater_nativo\Recycler\nombreDemo.Andro\obj\Debug\res\values\colors.xml
+C:\proyects\Recycler_con_adapater_nativo\Recycler\nombreDemo.Andro\obj\Debug\R.cs.flag
+C:\proyects\Recycler_con_adapater_nativo\Recycler\nombreDemo.Andro\obj\Debug\uploadflags.txt
+C:\proyects\Recycler_con_adapater_nativo\Recycler\nombreDemo.Andro\bin\Debug\demo.Core.dll.mdb
+C:\proyects\Recycler_con_adapater_nativo\Recycler\nombreDemo.Andro\obj\Debug\nombreDemo.Andro.dll.mdb
+C:\proyects\Recycler_con_adapater_nativo\Recycler\nombreDemo.Andro\bin\Debug\nombreDemo.Andro.dll.mdb
+C:\proyects\Recycle_con_swipe_binding\nombreDemo.Andro\bin\Debug\nombreDemo.Andro.dll
+C:\proyects\Recycle_con_swipe_binding\nombreDemo.Andro\bin\Debug\nombreDemo.Andro.pdb
+C:\proyects\Recycle_con_swipe_binding\nombreDemo.Andro\bin\Debug\nombreDemo.Andro.apk
+C:\proyects\Recycle_con_swipe_binding\nombreDemo.Andro\bin\Debug\nombreDemo.Andro-Signed.apk
+C:\proyects\Recycle_con_swipe_binding\nombreDemo.Andro\bin\Debug\demo.Core.dll
+C:\proyects\Recycle_con_swipe_binding\nombreDemo.Andro\bin\Debug\MvvmCross.Binding.dll
+C:\proyects\Recycle_con_swipe_binding\nombreDemo.Andro\bin\Debug\MvvmCross.Binding.Droid.dll
+C:\proyects\Recycle_con_swipe_binding\nombreDemo.Andro\bin\Debug\MvvmCross.Core.dll
+C:\proyects\Recycle_con_swipe_binding\nombreDemo.Andro\bin\Debug\MvvmCross.Droid.dll
+C:\proyects\Recycle_con_swipe_binding\nombreDemo.Andro\bin\Debug\MvvmCross.Droid.Shared.dll
+C:\proyects\Recycle_con_swipe_binding\nombreDemo.Andro\bin\Debug\MvvmCross.Droid.Support.V4.dll
+C:\proyects\Recycle_con_swipe_binding\nombreDemo.Andro\bin\Debug\MvvmCross.Droid.Support.V7.AppCompat.dll
+C:\proyects\Recycle_con_swipe_binding\nombreDemo.Andro\bin\Debug\MvvmCross.Droid.Support.V7.RecyclerView.dll
+C:\proyects\Recycle_con_swipe_binding\nombreDemo.Andro\bin\Debug\MvvmCross.Localization.dll
+C:\proyects\Recycle_con_swipe_binding\nombreDemo.Andro\bin\Debug\MvvmCross.Platform.dll
+C:\proyects\Recycle_con_swipe_binding\nombreDemo.Andro\bin\Debug\MvvmCross.Platform.Droid.dll
+C:\proyects\Recycle_con_swipe_binding\nombreDemo.Andro\bin\Debug\MvvmCross.Plugins.Json.dll
+C:\proyects\Recycle_con_swipe_binding\nombreDemo.Andro\bin\Debug\Newtonsoft.Json.dll
+C:\proyects\Recycle_con_swipe_binding\nombreDemo.Andro\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\proyects\Recycle_con_swipe_binding\nombreDemo.Andro\bin\Debug\Xamarin.Android.Support.Design.dll
+C:\proyects\Recycle_con_swipe_binding\nombreDemo.Andro\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\proyects\Recycle_con_swipe_binding\nombreDemo.Andro\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+C:\proyects\Recycle_con_swipe_binding\nombreDemo.Andro\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+C:\proyects\Recycle_con_swipe_binding\nombreDemo.Andro\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\proyects\Recycle_con_swipe_binding\nombreDemo.Andro\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+C:\proyects\Recycle_con_swipe_binding\nombreDemo.Andro\bin\Debug\XamarinItemTouchHelper.dll
+C:\proyects\Recycle_con_swipe_binding\nombreDemo.Andro\bin\Debug\demo.Core.pdb
+C:\proyects\Recycle_con_swipe_binding\nombreDemo.Andro\bin\Debug\MvvmCross.Binding.dll.mdb
+C:\proyects\Recycle_con_swipe_binding\nombreDemo.Andro\bin\Debug\MvvmCross.Localization.dll.mdb
+C:\proyects\Recycle_con_swipe_binding\nombreDemo.Andro\bin\Debug\MvvmCross.Platform.dll.mdb
+C:\proyects\Recycle_con_swipe_binding\nombreDemo.Andro\bin\Debug\Newtonsoft.Json.xml
+C:\proyects\Recycle_con_swipe_binding\nombreDemo.Andro\obj\Debug\nombreDemo.Andro.csprojResolveAssemblyReference.cache
+C:\proyects\Recycle_con_swipe_binding\nombreDemo.Andro\obj\Debug\nombreDemo.Andro.dll
+C:\proyects\Recycle_con_swipe_binding\nombreDemo.Andro\obj\Debug\nombreDemo.Andro.pdb
+C:\proyects\Recycle_con_swipe_binding\nombreDemo.Andro\obj\Debug\android\bin\nombreDemo.Andro.apk
+C:\proyects\Recycle_con_swipe_binding\nombreDemo.Andro\obj\Debug\res\layout\splashscreen.xml
+C:\proyects\Recycle_con_swipe_binding\nombreDemo.Andro\obj\Debug\res\layout\firstview.xml
+C:\proyects\Recycle_con_swipe_binding\nombreDemo.Andro\obj\Debug\res\layout\item_name.xml
+C:\proyects\Recycle_con_swipe_binding\nombreDemo.Andro\obj\Debug\res\layout\fragment_home.xml
+C:\proyects\Recycle_con_swipe_binding\nombreDemo.Andro\obj\Debug\res\layout\fragment_example_recyclerview.xml
+C:\proyects\Recycle_con_swipe_binding\nombreDemo.Andro\obj\Debug\res\values\strings.xml
+C:\proyects\Recycle_con_swipe_binding\nombreDemo.Andro\obj\Debug\res\drawable\icon.png
+C:\proyects\Recycle_con_swipe_binding\nombreDemo.Andro\obj\Debug\res\values\splashstyle.xml
+C:\proyects\Recycle_con_swipe_binding\nombreDemo.Andro\obj\Debug\res\drawable\splash.png
+C:\proyects\Recycle_con_swipe_binding\nombreDemo.Andro\obj\Debug\res\values\styles.xml
+C:\proyects\Recycle_con_swipe_binding\nombreDemo.Andro\obj\Debug\res\values\colors.xml
+C:\proyects\Recycle_con_swipe_binding\nombreDemo.Andro\obj\Debug\R.cs.flag
+C:\proyects\Recycle_con_swipe_binding\nombreDemo.Andro\obj\Debug\uploadflags.txt
+C:\proyects\Recycle_con_swipe_binding\nombreDemo.Andro\bin\Debug\demo.Core.dll.mdb
+C:\proyects\Recycle_con_swipe_binding\nombreDemo.Andro\obj\Debug\nombreDemo.Andro.dll.mdb
+C:\proyects\Recycle_con_swipe_binding\nombreDemo.Andro\bin\Debug\nombreDemo.Andro.dll.mdb

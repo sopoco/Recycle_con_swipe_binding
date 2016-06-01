@@ -1,0 +1,34 @@
+C:\Users\Sebastian Castillo\Documents\Visual Studio 2015\Projects\Recycler\demo.Core\bin\Debug\demo.Core.dll
+C:\Users\Sebastian Castillo\Documents\Visual Studio 2015\Projects\Recycler\demo.Core\bin\Debug\demo.Core.pdb
+C:\Users\Sebastian Castillo\Documents\Visual Studio 2015\Projects\Recycler\demo.Core\bin\Debug\MvvmCross.Binding.dll
+C:\Users\Sebastian Castillo\Documents\Visual Studio 2015\Projects\Recycler\demo.Core\bin\Debug\MvvmCross.Core.dll
+C:\Users\Sebastian Castillo\Documents\Visual Studio 2015\Projects\Recycler\demo.Core\bin\Debug\MvvmCross.Localization.dll
+C:\Users\Sebastian Castillo\Documents\Visual Studio 2015\Projects\Recycler\demo.Core\bin\Debug\MvvmCross.Platform.dll
+C:\Users\Sebastian Castillo\Documents\Visual Studio 2015\Projects\Recycler\demo.Core\obj\Debug\demo.Core.dll
+C:\Users\Sebastian Castillo\Documents\Visual Studio 2015\Projects\Recycler\demo.Core\obj\Debug\demo.Core.pdb
+C:\Users\Sebastian Castillo\Documents\Visual Studio 2015\Projects\Recycler\demo.Core\obj\Debug\demo.Core.dll.mdb
+C:\Users\Sebastian Castillo\Documents\Visual Studio 2015\Projects\Recycler\demo.Core\bin\Debug\demo.Core.dll.mdb
+C:\proyects\Recycler_con_adapater_nativo\Recycler\demo.Core\bin\Debug\demo.Core.dll
+C:\proyects\Recycler_con_adapater_nativo\Recycler\demo.Core\bin\Debug\demo.Core.pdb
+C:\proyects\Recycler_con_adapater_nativo\Recycler\demo.Core\bin\Debug\MvvmCross.Binding.dll
+C:\proyects\Recycler_con_adapater_nativo\Recycler\demo.Core\bin\Debug\MvvmCross.Core.dll
+C:\proyects\Recycler_con_adapater_nativo\Recycler\demo.Core\bin\Debug\MvvmCross.Localization.dll
+C:\proyects\Recycler_con_adapater_nativo\Recycler\demo.Core\bin\Debug\MvvmCross.Platform.dll
+C:\proyects\Recycler_con_adapater_nativo\Recycler\demo.Core\obj\Debug\demo.Core.csprojResolveAssemblyReference.cache
+C:\proyects\Recycler_con_adapater_nativo\Recycler\demo.Core\obj\Debug\demo.Core.dll
+C:\proyects\Recycler_con_adapater_nativo\Recycler\demo.Core\obj\Debug\demo.Core.pdb
+C:\proyects\Recycler_con_adapater_nativo\Recycler\demo.Core\obj\Debug\demo.Core.dll.mdb
+C:\proyects\Recycler_con_adapater_nativo\Recycler\demo.Core\bin\Debug\demo.Core.dll.mdb
+C:\proyects\Recycle_con_swipe_binding\demo.Core\bin\Debug\demo.Core.dll
+C:\proyects\Recycle_con_swipe_binding\demo.Core\bin\Debug\demo.Core.pdb
+C:\proyects\Recycle_con_swipe_binding\demo.Core\bin\Debug\MvvmCross.Binding.dll
+C:\proyects\Recycle_con_swipe_binding\demo.Core\bin\Debug\MvvmCross.Core.dll
+C:\proyects\Recycle_con_swipe_binding\demo.Core\bin\Debug\MvvmCross.Localization.dll
+C:\proyects\Recycle_con_swipe_binding\demo.Core\bin\Debug\MvvmCross.Platform.dll
+C:\proyects\Recycle_con_swipe_binding\demo.Core\obj\Debug\demo.Core.csprojResolveAssemblyReference.cache
+C:\proyects\Recycle_con_swipe_binding\demo.Core\obj\Debug\demo.Core.dll
+C:\proyects\Recycle_con_swipe_binding\demo.Core\obj\Debug\demo.Core.pdb
+C:\proyects\Recycle_con_swipe_binding\demo.Core\obj\Debug\demo.Core.dll.mdb
+C:\proyects\Recycle_con_swipe_binding\demo.Core\bin\Debug\demo.Core.dll.mdb
+C:\proyects\Recycle_con_swipe_binding\demo.Core\obj\Debug\demo.Core.dll.mdb
+C:\proyects\Recycle_con_swipe_binding\demo.Core\bin\Debug\demo.Core.dll.mdb
